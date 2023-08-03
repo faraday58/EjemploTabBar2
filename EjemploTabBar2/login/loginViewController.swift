@@ -13,6 +13,7 @@ class loginViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setUp()
+        //Segundo ejemplo del uso de UIKit
         
     }
     
